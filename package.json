@@ -1,0 +1,19 @@
+{
+  "name": "reddit-insta-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "ts-node src/index"
+  },
+  "dependencies": {
+    "@types/node-fetch": "^2.5.7",
+    "@types/puppeteer": "^0.1.2",
+    "canvas": "^2.6.1",
+    "instagram-apish": "^0.1.2",
+    "node-fetch": "^2.6.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6"
+  }
+}
