@@ -2,7 +2,7 @@
 
 ### Instgram Bot
 
-Instgram Reddit Bot is a bot which reuploads top subreddit posts to Instagram.
+Instgram Reddit Bot is a bot which reuploads top subreddit posts to Instagram once a day.
 
 ## Get started
 
